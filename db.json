@@ -1,0 +1,42 @@
+{
+  "questions": [
+    {
+        "id": 1,
+        "content": "Bober Kurwa BoberBober Lorem Lorem Ipsum?",
+        "marks": 1,
+        "negativeMarks": 1,
+        "options": [
+            {
+                "id": "a",
+                "content": "yes",
+                "isCorrect": false
+            },
+            {
+                "id": "b",
+                "content": "iapirdoleee kurwaa",
+                "isCorrect": true
+            },
+            {
+                "id": "c",
+                "content": "test answer",
+                "isCorrect": false
+            },
+            {
+                "id": "d",
+                "content": "test answer d",
+                "isCorrect": false
+            }
+        ]
+    }
+  ],
+  "quizs": [
+    {
+        "id": 1,
+        "name": "JS test Quiz N1",
+        "code": "testquiz1",
+        "questions": [1]
+    }
+  ],
+  "quizResults": [
+  ] 
+}
